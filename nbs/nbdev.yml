@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fastai-pt-2"
+  site-url: "https://Sina-Haz.github.io/fastai-pt-2"
+  description: "A repository where we build up to stable diffusion from the foundations, following along with part 2 of the fastai course"
+  repo-branch: main
+  repo-url: "https://github.com/Sina-Haz/fastai-pt-2"
